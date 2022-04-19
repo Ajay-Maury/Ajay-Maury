@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ajay-Kumar-Maurya
+- 👋 Hi, I’m @Ajay Kumar Maurya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full-stack web developer
+- 🌱 I’m currently learning Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at ajaymaurya6798@gmail.com
 
