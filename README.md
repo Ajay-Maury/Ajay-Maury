@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajay Kumar Maurya
+- 👋 Hi, I’m Ajay Kumar Maurya
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
