@@ -3,17 +3,16 @@
     Ajay-Maury/Ajay-Maury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     You can click the Preview link to take a look at your changes.
     --->
-    
-    <!-- - 👋 Hi, I’m Ajay Kumar Maurya
-    - 💞️ I’m looking to collaborate on ... -->
+
     
 <h1 align="center">Hi 👋, I'm Ajay Kumar Maurya</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](portfolio project link) -->
 
-- 👀 I’m interested in coding - 🌱 I’m currently learning Full Stack Web
-Developer - 📫 You can reach me at ajaymaurya6798@gmail.com
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning Full Stack Web Developer
+- 📫 You can reach me at ajaymaurya6798@gmail.com
 
 <!-- - 📄 Know about my experiences [Drive Link](deive-link if any) -->
 
