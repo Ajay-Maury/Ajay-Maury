@@ -3,15 +3,17 @@
     Ajay-Maury/Ajay-Maury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     You can click the Preview link to take a look at your changes.
     --->
-
     
 <h1 align="center">Hi 👋, I'm Ajay Kumar Maurya</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](portfolio project link) -->
 
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Full Stack Web Developer
+
+- 🌱 I’m currently learning Full Stack Web Developer 
+
 - 📫 You can reach me at ajaymaurya6798@gmail.com
 
 <!-- - 📄 Know about my experiences [Drive Link](deive-link if any) -->
@@ -38,14 +40,6 @@
       height="40"
     />
   </a>
-  <!-- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -114,8 +108,6 @@
       height="40"
     />
   </a>
-    
-    
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -133,8 +125,7 @@
     alt="Ajay-Maury"
   />
 </p>
-<p></p>
-
+<br>
 <p>
   &nbsp;<img
     align="center"
