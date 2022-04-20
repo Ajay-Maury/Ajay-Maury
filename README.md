@@ -4,7 +4,7 @@
     You can click the Preview link to take a look at your changes.
     --->
     
-<h1 align="center">Hi 👋, I'm Ajay Kumar Maurya</h1>
+<h1 align="center">Hi 👋, I'm Ajay Kumar Maurya</h1> 
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
@@ -118,26 +118,28 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Maury&show_icons=true&locale=en&layout=compact"
-    alt="Ajay-Maury"
-  />
-</p>
-<br>
-<p>
+<!-- <div> -->
+  <p align="center">
+    <img 
+    align="center"     
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Maury&show_icons=true&locale=en&layout=compact"
+      alt="Ajay-Maury"
+    />
+  </p>
+<!-- </div> -->
+
+<span align="left">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=Ajay-Maury&show_icons=true&locale=en"
     alt="Ajay-Maury"
   />
-</p>
+</span>
 
-<p>
+<span align="right">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Maury&"
     alt="Ajay-Maury"
   />
-</p>
+</span>
