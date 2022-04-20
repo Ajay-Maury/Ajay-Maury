@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in coding 
 
-- 🌱 I’m currently learning Full Stack Web Developer 
+- 🌱 I’m currently learning Full Stack Web Developement
 
 - 📫 You can reach me at ajaymaurya6798@gmail.com
 
