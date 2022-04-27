@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="center"  style="display: flex; justify-content: space-between;">
   <!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -117,16 +117,17 @@
       height="40"
     />
   </a>
-</p>
+</div>
+
 
 <div>
-  <p ">
+  <p align="left">
     <img 
     align="center"     
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Maury&show_icons=true&locale=en&layout=compact"
       alt="Ajay-Maury"
     />
-  </p>
+  </p>v
 </div>
 
 <p >
