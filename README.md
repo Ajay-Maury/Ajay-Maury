@@ -31,15 +31,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center"  style="display: flex; justify-content: space-between;">
-  <!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+<div>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
       alt="babel"
       width="40"
       height="40"
     />
-  </a> -->
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -119,6 +119,8 @@
   </a>
 </div>
 
+<p></p>
+
 
 <div>
   <p align="left">
@@ -127,11 +129,11 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Maury&show_icons=true&locale=en&layout=compact"
       alt="Ajay-Maury"
     />
-  </p>v
+  </p>
 </div>
 
 <p >
-  &nbsp;<img
+ <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=Ajay-Maury&show_icons=true&locale=en"
     alt="Ajay-Maury"
