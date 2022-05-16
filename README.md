@@ -8,13 +8,14 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
-<!-- - 👨‍💻 All of my projects are available at [Portfolio](portfolio project link) -->
 
 - 👀 I’m interested in coding 
 
 - 🌱 I’m currently learning Full Stack Web Developement
 
 - 📫 You can reach me at ajaymaurya6798@gmail.com
+
+- 👨‍💻 All of my projects are available at https://portfolio-ajay-maury.vercel.app/
 
 <!-- - 📄 Know about my experiences [Drive Link](deive-link if any) -->
 
