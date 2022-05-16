@@ -5,17 +5,22 @@
     --->
     
 <h1 align="center">Hi 👋, I'm Ajay Kumar Maurya</h1> 
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h2 align="center">A passionate Full Stack Web developer from India</h2>
+
+<a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+MERN+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=800&height=60"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
 
-- 👀 I’m interested in coding 
+- 👀 I’m interested in Coding 
 
-- 🌱 I’m currently learning Full Stack Web Developement
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 📫 You can reach me at ajaymaurya6798@gmail.com
+- 💬 Ask me about **Html, CSS, JS, Mongodb, ReactJS**
 
-- 👨‍💻 All of my projects are available at https://portfolio-ajay-maury.vercel.app/
+- 📫 You can reach me at **ajaymaurya6798@gmail.com**
+
+- 👨‍💻 All of my projects are available at:- **https://portfolio-ajay-maury.vercel.app/**
 
 <!-- - 📄 Know about my experiences [Drive Link](deive-link if any) -->
 
