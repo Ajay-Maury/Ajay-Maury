@@ -11,6 +11,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
+<a href="https://www.linkedin.com/in/ajay-kumar-maurya/">
+  <img align="left" alt="Ajay's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<!-- <a href="https://twitter.com/snehanaik4737">
+  <img align="left" alt="sneha | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> -->
+<br/>
+<br/>
+## About Me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<b>Motivated and efficient Full-stack web developer</b> with a history of education in Bachelor of Science and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+
 
 - 👀 I’m interested in Coding 
 
