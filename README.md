@@ -96,6 +96,7 @@
 <details>
 <summary><b>:bar_chart: Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ajay Maurya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajay-Maury&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!--<p align="center"<a href="#"><img alt="Ajay Maurya's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Maury&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
 </details>
 
 <!-- <details>
