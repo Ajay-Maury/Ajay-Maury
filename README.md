@@ -24,18 +24,18 @@
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in Diploma in Information Technology and interested in coding. Working with MERN Stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>Motivated and efficient Full-stack web developer</b> with a history of education in Diploma in Information Technology and interested in coding. Working with MERN Stack and programming languages like JavaScript, TypeScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 <br/>
 <br/>
 
 - 👀 I’m interested in *Coding*
-- :telescope: I’m currently working on *Front-End Development*
-- :seedling: I’m currently learning *MERN Stack*
-- :dancers: I’m looking to collaborate on Linkedin
-- 🤔: I’m looking for help with developing AI skills..
-- :speech_balloon: Ask me about any MERN related stuff
+- :telescope: I’m currently working as *MERN Full Stack Developer*.
+- :seedling: I’m learning *MERN Stack and other web development tools*.
+- :dancers: I’m looking to collaborate on Linkedin.
+- :speech_balloon: Ask me about MERN related stuffs.
 - 📫 You can reach me at *ajaymaurya6798@gmail.com*
-- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app/*
+- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app/*- 
+<!-- - 🤔: I’m looking for help with developing AI skills.. -->
 <br/> <br/>
 
 <!-- - 📄 Know about my experiences [Drive Link](deive-link if any) -->
