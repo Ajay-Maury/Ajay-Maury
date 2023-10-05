@@ -12,11 +12,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
 <a href="https://www.linkedin.com/in/ajay-kumar-maurya/">
-  <img align="left" alt="Ajay's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/?size=48&id=13930&format=png" />
 </a>
 <a href="https://www.hackerrank.com/ajaymaurya6798" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"                     alt="Ajay-Maury" 
-             height="30" width="40" /></a>
+        <img align="center" src="https://img.icons8.com/?size=80&id=mT2bzIQRdfpR&format=png" alt="Hacker Rank"  width="40" /></a>
 <!-- <a href="">
   <img align="left" alt="Ajay | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
@@ -24,15 +23,15 @@
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in Diploma in Information Technology and interested in coding. Working with MERN Stack and programming languages like JavaScript, TypeScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>Motivated and efficient Full-stack web developer</b> with a history of education in Diploma in Information Technology and interested in coding. Working with MERN Stack and programming languages like JavaScript, and TypeScript catalyzed my curiosity for web development. I have worked collaboratively, demonstrating my coding and interpersonal skills to meet deadlines. Looking forward to some interesting and challenging opportunities.
 <br/>
 <br/>
 
 - 👀 I’m interested in *Coding*
 - :telescope: I’m currently working as *MERN Full Stack Developer*.
-- :seedling: I’m learning *MERN Stack and other web development tools*.
+- :seedling: I’m learning *MERN Stack, web3, and other web development tools*.
 - :dancers: I’m looking to collaborate on Linkedin.
-- :speech_balloon: Ask me about MERN related stuffs.
+- :speech_balloon: Ask me about MERN related stuff.
 - 📫 You can reach me at *ajaymaurya6798@gmail.com*
 - 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app/*- 
 <!-- - 🤔: I’m looking for help with developing AI skills.. -->
@@ -59,17 +58,21 @@
   ## :rocket: Languages and Tools:
 <!--  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" /> -->
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"  width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"  width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=64&id=FnnFuAIw4e8j&format=png" alt="tailwind css"  width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"  width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" alt="typeScript"  width="48" height="48"/>
     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="48" height="48"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
+     <img src="https://img.icons8.com/?size=80&id=3VGtaw5gCc8T&format=png" alt="redux"  width="48" height="48"/>
+     <img src="https://img.icons8.com/?size=64&id=AU6Wc7r56Fxz&format=png" alt="next.js"  width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"  width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=64&id=o6OvAxG0nzTH&format=png" alt="mongodb" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" alt="express" width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png" alt="nest.js" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"  width="48" height="48"/>
+    <img src="https://img.icons8.com/?size=80&id=EPbEfEa7o8CB&format=png" alt="postman"  width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"  width="48" height="48"/>
 </p>
 
 
@@ -78,7 +81,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  <br><br/>
 
-## :bar_chart: My Github Stats
+## :bar_chart: My GitHub Stats
 <p >
  <img
     align="center"
@@ -95,14 +98,14 @@
 
 <details>
 <summary><b>:bar_chart: Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ajay Maurya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajay-Maury&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!--<p align="center"<a href="#"><img alt="Ajay Maurya's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Maury&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+<!-- <p align="center"<a href="#"><img alt="Ajay Maurya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajay-Maury&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+<p align="center"<a href="#"><img alt="Ajay Maurya's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Maury&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
-<!-- <details>
+<details>
  <summary><b>:trophy: Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Ajay-Maury/Ajay-Maury.git"><img src="https://github-profile-trophy.vercel.app/?username=Ajay-Maury&margin-w=5&theme=radical" alt="Ajay" /></a> </p>
- </details> -->
+ </details> 
  
  <hr>
 <p align="center">
