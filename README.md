@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Maurya</h1> 
 <h2 align="center">A passionate Full Stack Web developer from India</h2>
 
-<a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+MERN+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=800&height=60"></a>
+<a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=800&height=60"></a>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Maury&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Maury" /> </p>
 
@@ -33,7 +33,7 @@
 - :dancers: I’m looking to collaborate on Linkedin.
 - :speech_balloon: Ask me about MERN related stuff.
 - 📫 You can reach me at *ajaymaurya6798@gmail.com*
-- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app/*- 
+- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app*
 <!-- - 🤔: I’m looking for help with developing AI skills.. -->
 <br/> <br/>
 
