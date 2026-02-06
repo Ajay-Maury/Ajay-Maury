@@ -33,7 +33,7 @@
 - :dancers: I’m looking to collaborate on Linkedin.
 - :speech_balloon: Ask me about MERN related stuff.
 - 📫 You can reach me at *ajaymaurya6798@gmail.com*
-- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app*
+- 👨‍💻 Visit my portfolio at:- *https://ajay-maurya-portfolio.vercel.app*
 <!-- - 🤔: I’m looking for help with developing AI skills.. -->
 <br/> <br/>
 
