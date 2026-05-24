@@ -147,10 +147,10 @@ const ajay = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-Maury&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Maury&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=ffffff&bg_color=0D1117" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Maury&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&hide_border=true&stroke=00B4D8&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888" />
