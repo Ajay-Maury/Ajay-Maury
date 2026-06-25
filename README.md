@@ -158,12 +158,16 @@ const ajay = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Maury&margin-w=8&theme=discord&no-bg=true&no-frame=true&column=7" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ajay-Maury&theme=nord&column=7&margin-w=15" />
+  
+  <!-- Fallback: GitHub Stats -->
+  <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ajay-Maury&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&bg_color=0D1117" />
 </div>
-
+ -->
 ---
 
 <div align="center">
